@@ -65,24 +65,6 @@ Dockerfile                   container config for deployment
 
 ---
 
-## How to Run
-
-Install dependencies.
-
-```
-pip install -r requirements.txt
-```
-
-Run the app.
-
-```
-streamlit run streamlit_app.py
-```
-
-The app opens at `http://localhost:8501`. Search for films in the sidebar and recommendations appear instantly.
-
----
-
 ## Dataset
 
 The app uses the TMDB 5000 Movie Dataset, filtered to films with at least 50 votes, giving a working library of 3,652 films. Genre lists, keywords, cast, and director fields are parsed from JSON and combined into the content model at startup.
