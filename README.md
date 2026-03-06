@@ -24,10 +24,6 @@ Switch to the Top Charts tab to browse the highest-rated films across any genre.
 
 ![Top Charts filtered to Family showing Spirited Away, Anne of Green Gables, and It's a Wonderful Life](demo3.png)
 
-The genre dropdown gives you quick access to every genre in the dataset.
-
-![Genre dropdown open showing all available genre filters](demo4.png)
-
 ---
 
 ## How It Works
