@@ -56,7 +56,7 @@ Dockerfile                   container config for deployment
 
 ## Stack
 
-* Python
+* Python (core logic and data processing)
 * scikit-learn (TF-IDF vectorisation and cosine similarity)
 * pandas and numpy (data loading and manipulation)
 * Streamlit (UI framework and deployment)
